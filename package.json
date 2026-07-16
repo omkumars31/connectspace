@@ -10,5 +10,8 @@
   "author": "",
   "license": "ISC",
   "packageManager": "pnpm@11.11.0",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
 }
